@@ -1,5 +1,7 @@
 # Plane Tracker Telegram Bot
 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project is a Telegram bot that tracks planes around a specified location and notifies you when new planes enter the area. The bot uses the OpenSky Network and ADS-B API to fetch flight data.
 
 ## Features
