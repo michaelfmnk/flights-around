@@ -1,0 +1,6 @@
+telegram_bot_token: "YOUR_TELEGRAM_TOKEN"
+latitude: 42.4412
+longitude: 19.2626
+radius_km: 70
+opensky_url: "https://opensky-network.org"
+adsb_url: "https://api.adsbdb.com"
