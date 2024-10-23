@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "planes-around"
+version = "0.1.0"
+description = ""
+authors = ["michaelfmnk <michael.fmnk@gmail.com>"]
+readme = "README.md"
+packages = [{include = "planes_around"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.3"
+python-telegram-bot = {extras = ["job-queue"], version = "^21.6"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
